@@ -1,5 +1,5 @@
 # Plover URL Shusher (for Chromium)
-Full disclosure: ChatGPT made this for me after one prompt.
+**Full disclosure**: ChatGPT made this for me after one prompt.
 
 When you begin typing into Chromium's URL bar, it fills in the rest of the search with a search suggestion from previous searches and visited URLs, so you can hit Enter to use that suggestion. It selects the part it filled in, too, so that if you keep typing, you immediately overwrite it.
 
