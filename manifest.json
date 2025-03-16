@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Disable Omnibox Autocomplete",
+  "version": "1.0",
+  "description": "Disables autocomplete and suggestions in the URL bar when activated via keyword.",
+  "omnibox": { "keyword": "shh" },
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
